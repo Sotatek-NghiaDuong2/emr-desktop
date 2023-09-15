@@ -1,0 +1,4 @@
+[submodule "emr-web"]
+	path = emr-web
+	url = https://github.com/Sotatek-NghiaDuong2/emr-web.git
+	ignore = dirty

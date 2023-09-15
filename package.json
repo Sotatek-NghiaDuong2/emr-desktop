@@ -1,0 +1,10 @@
+{
+  "name": "emr-desktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sotatek-NghiaDuong2 <nghia.duong2@sotatek.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
